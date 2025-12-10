@@ -23,3 +23,4 @@ google-auth-httplib2
 google-api-python-client
 google-generativeai
 langchain-google-genai
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
